@@ -6,4 +6,4 @@ corentinth/it-tools
 wcjiang/reference
 nginxproxy/nginx-proxy
 chevereto/chevereto
-islandora/code-server
+codercom/code-server
