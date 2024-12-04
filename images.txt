@@ -4,5 +4,5 @@ lscr.io/linuxserver/qbittorrent
 corentinth/it-tools
 6053537/portainer-ce
 wcjiang/reference
-
+nginxproxy/nginx-proxy
 
