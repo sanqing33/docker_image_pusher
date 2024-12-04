@@ -5,4 +5,5 @@ corentinth/it-tools
 6053537/portainer-ce
 wcjiang/reference
 nginxproxy/nginx-proxy
-
+chevereto/chevereto
+islandora/code-server
