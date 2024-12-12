@@ -19,3 +19,4 @@ chevereto/chevereto
 codercom/code-server
 # Jupyter Notebook
 jupyter/scipy-notebook
+mysql
