@@ -1,9 +1,1 @@
-mysql:9.1.0
-nginx
-nginxproxy/nginx-proxy
-whyour/qinglong
-lscr.io/linuxserver/qbittorrent
-6053537/portainer-ce
-dpanel/dpanel
-codercom/code-server
-jupyter/scipy-notebook
+dlandon/zoneminder
